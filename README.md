@@ -12,10 +12,7 @@
   - [Support Vector Machine Regression](#2-support-vector-machine-regressionipynb)
   - [Voting Classifier](#3-voting-classifiercombined-with-decision_tree--random_forest--adaboost_classifieripynb)
   - [k-Means Clustering with PCA](#4-k-means-clustering-with-pcaipynb)
-- [Getting Started](#getting-started)
-- [Dependencies](#dependencies)
-- [Data Sources](#data-sources)
-- [Repository Layout](#repository-layout)
+
 
 ## Overview
 
